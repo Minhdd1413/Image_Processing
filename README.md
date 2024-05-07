@@ -1,0 +1,1 @@
+This is a series of exercises that I have carried out during my Image Processing class. I am very grateful to my teacher for guiding and supporting me throughout the course. Here is the link to my teacher's Google Scholar page: https://scholar.google.com.vn/citations?user=XquTMewAAAAJ&hl=vi
